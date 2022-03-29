@@ -11,7 +11,7 @@ redirect_from:
 
 <p> I've always been fascinated by the way our brain drives every action, decision, and emotion during our lives and by the variety of different studies which try to unravel the mysteries of such a complex organ, from psychology to neurosciences. On the other hand, the answers we look for are hidden in data, therefore I've decided to follow a Data Science academic path, which could give me the tools to extract information from any kind of dataset.
 "In a world of locked rooms, the man with the key is king."</p>
-
+You can contact me via [email](mailto:sofiaborgato71194@gmail.com).
 <p>
 Currently, I'm looking for opportunities in the neuroscience field, trying to combine once again my passion and my skills.
 You can contact me via [email](mailto:marcobot97@gmail.com) or <a href="https://www.linkedin.com/in/marco-bottino25/" target="_blank">linkedin</a>.</p>
