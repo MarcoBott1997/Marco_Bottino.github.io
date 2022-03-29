@@ -16,8 +16,8 @@ Education
 
 Communication skills
 ======
-* Native speaker: Italian
-* Other Language: English
+* Native language: Italian
+* Other languages: English
 <table style="width:35%; border: 1px solid black; border-collapse: collapse">
   <tr>
     <th style="border: 1px solid black; border-collapse: collapse">Speaking</th>
