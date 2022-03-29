@@ -14,7 +14,7 @@ redirect_from:
 
 <p>
 Currently, I'm looking for opportunities in the neuroscience field, trying to combine once again my passion and my skills.
-You can contact me via [email](mailto:marcobot97@gmail.com) or <a href="https://www.linkedin.com/in/marco-bottino25/" target="_blank">linkedin</a>.</p>
+You can contact me via <a href= "mailto:marcobot97@gmail.com">email </a> or <a href="https://www.linkedin.com/in/marco-bottino25/" target="_blank">linkedin</a>.</p>
 
 ---
 
