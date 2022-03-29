@@ -47,8 +47,10 @@ Computer skills
   </tr>
   <tr>
     <td style="border: 1px solid black; border-collapse: collapse">
-    * Windows
-    * Linux (Basics)
+    <ul>
+      <li>Windows</li>
+      <li>Linux (Basics)</li>
+    </ul>
     </td>
     <td style="border: 1px solid black; border-collapse: collapse">
     <ul>
@@ -59,18 +61,25 @@ Computer skills
     </ul>
     </td>
     <td style="border: 1px solid black; border-collapse: collapse">
-    * Hadoop
-    * Spark
+    <ul>
+      <li>Hadoop</li>
+      <li>Stark</li>
+    </ul>
     </td>
     <td style="border: 1px solid black; border-collapse: collapse">
-    * SQL
-    * NOSQL: MongoDB
+    <ul>
+    <li>SQL</li>
+    <li>NOSQL: MongoDB</li>
+    </ul>
     </td>
     <td style="border: 1px solid black; border-collapse: collapse">
-    * Office 365
-    * RapidMiner
-    * Matlab
-    * RStudio
+    <ul>
+      <li>Office 365</li>
+      <li>RapidMiner</li>
+      <li>Matlab</li>
+      <li>RStudio</li>
+      <li>Mathematica</li>
+    </ul>
     </td>
   </tr>
 </table>
