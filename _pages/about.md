@@ -7,16 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**HI, I'M SOFIA!**
+**HI, I'M MARCO!**
 
+<p> I've always been fascinated by the way our brain drives every action, decision, and emotion during our lives and by the variety of different studies which try to unravel the mysteries of such a complex organ, from psychology to neurosciences. On the other hand, the answers we look for are hidden in data, therefore I've decided to follow a Data Science academic path, which could give me the tools to extract information from any kind of dataset.
+"In a world of locked rooms, the man with the key is king."</p>
 
-I have always been interested in biology and initially thought about pursuing a career as a doctor. Then I realized that instead of wanting to treat individual patients I preferred to statistically analyze the disease at issue by looking for engineering solutions to the problem. 
-It was at this point that my passion for medicine met data science. 
-Now I am finishing my studies in data science and engineering at the Polytechnic of Turin, and for my future I would like to combine my two passions. 
-
-
-
-You can contact me via [email](mailto:sofiaborgato71194@gmail.com).
+<p>
+Currently, I'm looking for opportunities in the neuroscience field, trying to combine once again my passion and my skills.
+You can contact me via [email](mailto:marcobot97@gmail.com) or <a href="https://www.linkedin.com/in/marco-bottino25/" target="_blank">linkedin</a>.</p>
 
 ---
 
@@ -28,16 +26,17 @@ You can contact me via [email](mailto:sofiaborgato71194@gmail.com).
 <tr>
   <td colspan="4" style="border:none !important" >
   <ul style="list-style-type:none; padding:0">
+    
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Neuroscience </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Brain-computer Interface </li>
     <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Machine Learning </li>
-    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Deep Learning </li>
-    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Oncology </li>
-    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Biology </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Data Analysis </li>
   </ul>
   </td>
   <td colspan="4" style="border:none !important" >
   <ul style="list-style-type:none; padding:0">
-    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/data_science/en/home" target="_blank"> Data Science and Engineering</a></li> <p> Master's Degree, Politecnico di Torino, 2019-2021 </p>
-    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea/ingegneria_fisica/it/presentazione" target="_blank">Physics Engineering</a> </li> <p> Bachelor's Degree, Politecnico di Torino, 2014-2018 </p>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea_magistrale/ingegneria_matematica/en/overview" target="_blank"> Mathematical Engineering</a></li> <p> Master's Degree, Politecnico di Torino, 2019-2021 </p>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-user-graduate"></i><a href="https://didattica.polito.it/laurea/matematica_ingegneria/en/overview" target="_blank">Mathematics for Engineering</a> </li> <p> Bachelor's Degree, Politecnico di Torino, 2016-2019 </p>
   </ul>
   </td>
 </tr>
