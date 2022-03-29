@@ -26,7 +26,7 @@ Communication skills
     <th style="border: 1px solid black; border-collapse: collapse">Listening</th>
   </tr>
   <tr>
-    <th style="border: 1px solid black; border-collapse: collapse">B2</th>
+    <th style="border: 1px solid black; border-collapse: collapse">B2</td>
     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
