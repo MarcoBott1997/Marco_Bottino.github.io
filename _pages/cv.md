@@ -39,9 +39,7 @@ Computer skills
   * Windows
   * Linux (Basics)
 * **Programming languages**
-  * C
-  * Python
-  * JAVA
+  * C * Python * JAVA
   * Julia
 * **Framework**
   * Hadoop
