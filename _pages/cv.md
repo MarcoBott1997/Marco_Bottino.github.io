@@ -35,23 +35,43 @@ Communication skills
 
 Computer skills
 ======
-* **Operating Systems**
-  * Windows
-  * Linux (Basics)
-* **Programming languages**
-  * C * Python * JAVA
-  * Julia
-* **Framework**
-  * Hadoop
-  * Spark
-* **Databases**
-  * SQL
-  * NOSQL: MongoDB
- * **Software**
+* Native speaker: Italian
+* Other Language: English
+<table style="width:35%; border: 1px solid black; border-collapse: collapse">
+  <tr>
+    <th style="border: 1px solid black; border-collapse: collapse">Operating Systems</th>
+    <th style="border: 1px solid black; border-collapse: collapse">Programming languages</th>
+    <th style="border: 1px solid black; border-collapse: collapse">Framework</th>
+    <th style="border: 1px solid black; border-collapse: collapse">Databases</th>
+    <th style="border: 1px solid black; border-collapse: collapse">Software</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; border-collapse: collapse">
+    * Windows
+    * Linux (Basics)
+    </td>
+    <td style="border: 1px solid black; border-collapse: collapse">
+    * C 
+    * Python
+    * JAVA
+    * Julia
+    </td>
+    <td style="border: 1px solid black; border-collapse: collapse">
+    * Hadoop
+    * Spark
+    </td>
+    <td style="border: 1px solid black; border-collapse: collapse">
+    * SQL
+    * NOSQL: MongoDB
+    </td>
+    <td style="border: 1px solid black; border-collapse: collapse">
     * Office 365
     * RapidMiner
     * Matlab
     * RStudio
+    </td>
+  </tr>
+</table>
  
 Exams
 ======
