@@ -51,10 +51,12 @@ Computer skills
     * Linux (Basics)
     </td>
     <td style="border: 1px solid black; border-collapse: collapse">
-    * C 
-    * Python
-    * JAVA
-    * Julia
+    <ul>
+      <li>C</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>Julia</li>
+    </ul>
     </td>
     <td style="border: 1px solid black; border-collapse: collapse">
     * Hadoop
