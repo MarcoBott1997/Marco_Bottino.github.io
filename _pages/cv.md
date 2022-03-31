@@ -86,7 +86,7 @@ Computer skills
  
 Exams
 ======
-**MSc in Data Science and Engineering**
+**MSc in Mathematical Engineering**
 *	Numerical optimization for large scale problems and Stochastic Optimization
 *	Time-frequency and multiscale analysiS
 *	Stochastic processes
