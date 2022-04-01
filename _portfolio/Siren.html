@@ -1,0 +1,12 @@
+---
+title: "SIREN for Single Image Super-Resolution"
+excerpt: "Application of implicit neural representation with periodic activation function for Single Image Super-Resolution <br/><img src='/images/main_image.png'>"
+collection: portfolio
+---
+
+The use of neural networks with periodic activation functions has recently been shown to be able to provide excellent results in the approximation of signals, including the reconstruction of images. 
+In particular, a new proposal is SIREN (sinusoidal representation network), that uses the sine as an activation function: its potential consists in being able to obtain accurate reconstructions with network composed on few layers, which implies far shorter computational times and memory storage. 
+The single-image super resolution (SISR) is an example of an application in which very deep networks are dominating in the state of the art, such as SRResNet or SRGAN: in this work we try to obtain results comparable with those of deep networks in terms of measures of similarity like PSNR and perceptual quality. 
+To achieve this we experiment different types of loss and try to combine the SIREN with a relatively shallow convolutional network to improve the interpolation task. 
+The results are much better than other interpolation-based methods like bicubic interpolation and get close to the one in the state of the art, with the advantage of the versatility of the SIREN, which doesn’t need to be re-trained each time the scaling factor is changed.
+This project was developed with the help of Luca Ambrosino and Lorenzo Scolaris, and is available <a href="https://github.com/MarcoBott1997/Project_Siren" target="_blank" >here</a>.
