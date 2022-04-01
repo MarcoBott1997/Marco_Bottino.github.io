@@ -107,6 +107,6 @@ Exams
 Interest
 ======
 * **Professional**: Neuroscience, Brain-computer Interfaces, Data Science, Machine Learning, Deep learning, Artificial Intelligence, Bioinformatic.
-*  **Personal**: Trekking, Cosplay, ,Boulder Climbing, Music. 
+*  **Personal**: Trekking, Cosplay, Boulder Climbing, Music. 
  
   
