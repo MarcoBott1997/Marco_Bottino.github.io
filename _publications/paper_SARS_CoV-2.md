@@ -2,7 +2,7 @@
 title: "SARS-CoV-2 variants classification and characterization"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The idea of this work is to automatize the process of analysis and description of the SARS-CoV-2 virus starting from a sample of its genome and to be able to assign a group of samples to the correct variant. By using a clustering algorithm, in the end, it’s also possible to distinguish a new variant and obtain a description of its most common mutations.'
 date: 2022-03-22
 venue: 'Proceedings of 14th International Conference on Bioinformatics and Computational Biology'
 paperurl: '	https://doi.org/10.29007/5qpk'
