@@ -27,5 +27,5 @@ demonstrated high precision on a new variant that arose during the drafting of t
 (used only in the testing phase of the algorithm). Therefore, researchers will significantly
 benefit from the proposed algorithm and the detailed output with the main alterations of
 the samples.<br/>
-The tool is freely available [here] (https://github.com/sofiaborgato/-SARS-CoV-2-variants-classification-and-characterization).
+The tool is freely available [here](https://github.com/sofiaborgato/-SARS-CoV-2-variants-classification-and-characterization).
 Download paper [here](https://doi.org/10.29007/5qpk)
