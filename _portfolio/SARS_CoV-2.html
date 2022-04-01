@@ -1,0 +1,24 @@
+---
+title: "SARS-CoV-2 variants classification and characterization"
+excerpt: "The idea of this work is to automatize the process of analysis and description of the SARS-CoV-2 virus starting from a sample of its genome and to be able to assign a group of samples to the correct variant. By using a clustering algorithm, in the end, it’s also possible to distinguish a new variant and obtain a description of its most common mutations."
+collection: portfolio
+---
+
+As of late 2019, the SARS-CoV-2 virus has spread globally, giving several variants
+over time. These variants, unfortunately, differ from the original sequence identified in
+Wuhan, thus risking compromising the efficacy of the vaccines developed. Some software
+has been released to recognize currently known and newly spread variants. However, some
+of these tools are not entirely automatic. Some others, instead, do not return a detailed
+characterization of all the mutations in the samples. Indeed, such characterization can be
+helpful for biologists to understand the variability between samples. This paper presents
+a Machine Learning (ML) approach to identifying existing and new variants completely
+automatically. In addition, a detailed table showing all the alterations and mutations found
+in the samples is provided in output to the user. SARS-CoV-2 sequences are obtained from
+the GISAID database, and a list of features is custom designed (e.g., number of mutations
+in each gene of the virus) to train the algorithm. The recognition of existing variants is
+performed through a Random Forest classifier while identifying newly spread variants is
+accomplished by the DBSCAN algorithm. Both Random Forest and DBSCAN techniques
+demonstrated high precision on a new variant that arose during the drafting of this paper
+(used only in the testing phase of the algorithm). Therefore, researchers will significantly
+benefit from the proposed algorithm and the detailed output with the main alterations of
+the samples.
