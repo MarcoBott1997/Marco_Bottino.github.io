@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marco Bottino"
 title_separator          : "-"
 name                     : &name "Marco Bottino"
-description              : &description "Data Science Engineer"
+description              : &description "Data Science Engineer, Ph.D student in Systems Neuroscience"
 url                      : https://marcobott1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MarcoBott1997/marcobott1997.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marco Bottino"
   avatar           : "marco_square.jpg"
-  bio              : "Data Science Engineer"
-  location         : "Turin"
-  employer         :
+  bio              : "Data Science Engineer, Ph.D student in Systems Neuroscience"
+  location         : "Dresden, Saxony, Germany"
+  employer         : "Universitätsklinikum Carl Gustav Carus Dresden"
   pubmed           : 
   googlescholar    : 
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "marco-bottino25"
-  orcid            : 
+  orcid            : "0000-0002-7435-9513"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
